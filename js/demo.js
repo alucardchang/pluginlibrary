@@ -1,3 +1,3 @@
 ~function(){
-alert('Success');
+console.log('Success');
 }()
